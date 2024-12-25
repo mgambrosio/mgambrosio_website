@@ -1,14 +1,20 @@
 ---
 title: "About Me"
 about:
-  id: me
+  # id: me
   template: broadside
   image: img/profile.png
 ---
 
 :::{#me}
 
+Maria Ambrosio is a clinically trained public health researcher with a wide range of experience in research and community outreach interventions. She worked in public and private sector hospitals and has expertise and immersion in Europe, Africa, and the United States. As a strong advocate of primary prevention, she has worked throughout her career with nonprofit charities, foundations, faith-based, healthcare, and government authorities to advance children and women's health.
+
+Her areas of expertise include Public Health, general medicine, nonprofit management, data science, R, SAS, and SQL.
+
 ## Goals
+
+
 
 ## Education
 
